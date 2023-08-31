@@ -27,7 +27,7 @@ Sou um estudante desenvolvedor front-end que ama a liberdade e independência pr
 ##
 <h3>Interesses🏴</h3>
 
-No atual momento estou focado em aprimorar meu conhecimento em AngularJS. Quero também focar meus estudos em criação de API's e algum framework de estilização como Tailwind CSS.
+No atual momento estou focado em aprimorar meu conhecimento em Angular. Quero também focar meus estudos em criação de API's e algum framework de estilização como Tailwind CSS.
 
 ## 
 <h3>Linguagens / Tecnologias🏴</h3>
