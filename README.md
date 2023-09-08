@@ -13,16 +13,13 @@ Sou um estudante desenvolvedor front-end que ama a liberdade e independência pr
 ##
 <h3>Projetos🏴</h3>
 
-<div>
-  
-</div>
-
+<a href="https://github.com/MiguelFirmino/pathfinding-visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=pathfinding-visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pathfinding Visualizer"></a>
+<a href="https://github.com/MiguelFirmino/Todo-List-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=Todo-List-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Todo-List-App"></a>
 <a href="https://github.com/MiguelFirmino/Dijkstra-Visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=Dijkstra-Visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dijkstra-Visualizer"></a>
 <a href="https://github.com/MiguelFirmino/Resta-Um"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=Resta-Um&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Resta-Um"></a>
-<a href="https://github.com/MiguelFirmino/Todo-List-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=Todo-List-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Todo-List-App"></a>
 <a href="https://github.com/MiguelFirmino/Quiz-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=Quiz-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Quiz-page"></a>
 <a href="https://github.com/MiguelFirmino/Stopwatch-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=Stopwatch-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stopwatch-page"></a>
-<a href="https://github.com/MiguelFirmino/pathfinding-visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MiguelFirmino&repo=pathfinding-visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pathfinding Visualizer"></a>
+
 
 ##
 <h3>Interesses🏴</h3>
