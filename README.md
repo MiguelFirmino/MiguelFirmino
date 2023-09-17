@@ -24,7 +24,7 @@ Sou um estudante desenvolvedor front-end que ama a liberdade e independência pr
 ##
 <h3>Interesses🏴</h3>
 
-No atual momento estou focado em aprimorar meu conhecimento em Angular. Quero também focar meus estudos em criação de API's e algum framework de estilização como Bootstrap CSS.
+Estudo programação desde 2018, quando comecei com o interesse em game development. Por meio da plataforma Unity5, tive acesso ao C#, e tive que aprender lógica de programação para criar os scripts dos jogos, foi aí que vi que existia toda área da programação que eu desconhecia completamente e que seria importante para conseguir aplicar as ferramentas da Unity. A partir daí, passei a estudar Python como primeira linguagem de programação em si, aprendi sobre variáveis, if, if else, switch cases, for, while loops, funções, classes, compreensão de listas, e etc. Nesse período estudei também Numpy, Pandas e Tkinter, uma library que possibilita a criação de interfaces. Quando percebi que já tinha um bom conhecimento na primeira linguagem de programação, decidi aprender Javascript, e por consequencia aprendi também HTML e CSS. Me identifiquei muito com a área de desenvolvimento web, e passei a focar minha atenção para projetos pessoais na área. Aprendi sobre eventos, inputs, OOP, entre outros conceitos por meio desses projetos. Procurei então aprender frameworks web para poder usufruir de ferramentas mais poderosas. Estudei e apliquei conhecimento em Angular, Typescript e Bootstrap, ferramentas das quais tenho o orgulho de ter atravessado a barreira inicial do aprendizado e ter passado a entender o porque de usa-las. Também cheguei a estudar um pouco de React, NextJS, e NestJS.
 
 ## 
 <h3>Linguagens / Tecnologias🏴</h3>
