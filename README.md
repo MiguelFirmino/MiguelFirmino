@@ -3,7 +3,7 @@
 # Olá, me chamo Miguel Firmino👋
 
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A77CC&background=FFFFFF00&center=true&width=435&lines=Open+For+Work!;Artist+and+Art+Lover!;Architect+of+Human's+Needs." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&width=435&lines=Open+For+Work!;Artist+and+Art+Lover!;Architect+of+Human's+Needs." alt="Typing SVG" /></a>
 </div>
 
 <h3 style="color:blue">Sobre🏴</h3>
