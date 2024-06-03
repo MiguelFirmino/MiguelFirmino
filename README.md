@@ -44,8 +44,10 @@ Estudo programação desde 2018, quando comecei com o interesse em game developm
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-<!--## Estou Trabalhando Em🏴 -->
+## Estou Trabalhando Em🏴
 
+Tentando me tornar Dev. Junior!
+Estudando C# e .NET
 
 <!--
 
